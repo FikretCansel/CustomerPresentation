@@ -1,0 +1,23 @@
+.activeRequirementBtn {
+    box-shadow: 5px 10px;
+    background: linear-gradient(rgb(183, 232, 247),#16adfe);
+    color: aliceblue;
+    padding: 15px;
+}
+
+.notActiveRequirementBtn {
+    padding: 15px;
+    color: lightgray;
+}
+
+.PreviewModelBtn {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 15px;
+    transform: 1s;
+    border-style: solid;
+    border-color: rgb(243, 237, 237);
+    cursor: pointer;
+}

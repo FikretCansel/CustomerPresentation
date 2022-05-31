@@ -1,0 +1,28 @@
+
+.PreviewModuleTextDiv{
+  margin-top: 10px;
+  transform: 100;
+}
+.PreviewModuleModal{
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 10; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+}
+.PreviewModelImagesRow{
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  
+}
+.PreviewModelImagesCol{
+  display: inline-block;
+  float: none;
+  width: 200px;
+  height: 250px;
+}
+
+

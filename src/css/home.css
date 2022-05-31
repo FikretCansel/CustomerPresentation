@@ -1,0 +1,31 @@
+.processBtn{
+    border-color: #e7e7e7;
+    margin-left: 10px;
+}
+.FooterContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: -webkit-sticky;
+    padding: 50px;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10000;
+}
+html body {
+    height: 100%;
+    background-color: #FFFF;
+    direction: ltr;
+}
+.generalButtonColor{
+    background: linear-gradient(rgb(183, 232, 247),#16adfe);
+    border-radius: 15px;
+    border-color: #eaeaea;
+    color: #e7e7e7;
+}
+.generalCardHeight{
+    height: 500px;
+}

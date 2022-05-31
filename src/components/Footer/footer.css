@@ -1,0 +1,8 @@
+.FooterContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: -webkit-sticky;
+    padding: 50px;
+    font-size: 20px;
+}
